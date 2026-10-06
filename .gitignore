@@ -1,0 +1,11 @@
+# Copiled class files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Other common build/output folders
+target/
+.vscode/
