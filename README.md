@@ -7,9 +7,10 @@ Exercises and study material in Java, part of my preparation for my first opport
 - `hackerrank/` — HackerRank challenge solutions
 
 ## Contents
-| Exercise                  | Concept                           |
-|---------------------------|-----------------------------------|
-| `triangle-classification` | conditionals, triangle inequality |
+| Exercise                       | Concept                           |
+|--------------------------------|-----------------------------------|
+| `triangle-classification`      | conditionals, triangle inequality |
+| `hackerrank/weird-not-weird`   | conditionals                      |
 
 ## How to run
 Each folder contains one or more .java files, compilable with:
