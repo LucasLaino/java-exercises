@@ -7,10 +7,11 @@ Exercises and study material in Java, part of my preparation for my first opport
 - `hackerrank/` — HackerRank challenge solutions
 
 ## Contents
-| Exercise                       | Concept                           |
-|--------------------------------|-----------------------------------|
-| `triangle-classification`      | conditionals, triangle inequality |
-| `hackerrank/weird-not-weird`   | conditionals                      |
+| Exercise                                  | Concept                                         |
+|-------------------------------------------|-------------------------------------------------|
+| `logic-exercises/triangle-classification` | conditionals, triangle inequality               |
+| `logic-exercises/second-highest-value`    | arrays, tracking tow variables in a single pass |
+| `hackerrank/weird-not-weird`              | conditionals                                    |
 
 ## How to run
 Each folder contains one or more .java files, compilable with:
