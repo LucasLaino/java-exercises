@@ -12,7 +12,6 @@ Exercises and study material in Java, part of my preparation for my first opport
 | `logic-exercises/triangle-classification` | conditionals, triangle inequality               |
 | `logic-exercises/second-highest-value`    | arrays, tracking tow variables in a single pass |
 | `hackerrank/if-else`                      | conditionals                                    |
-| `hackerrank/fizzbuzz`                     | loops, condtionals                              |
 
 
 ## How to run
