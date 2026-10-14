@@ -7,12 +7,13 @@ Exercises and study material in Java, part of my preparation for my first opport
 - `hackerrank/` — HackerRank challenge solutions
 
 ## Contents
-| Exercise                                  | Concept                                         |
-|-------------------------------------------|-------------------------------------------------|
-| `logic-exercises/triangle-classification` | conditionals, triangle inequality               |
-| `logic-exercises/second-highest-value`    | arrays, tracking tow variables in a single pass |
-| `hackerrank/if-else`                      | conditionals                                    |
-| `hackerrank/fizzbuzz`                     | loop, conditionals                              |
+| Exercise                                          | Concept                                         |
+|---------------------------------------------------|-------------------------------------------------|
+| `logic-exercises/triangle-classification`         | conditionals, triangle inequality               |
+| `logic-exercises/second-highest-value`            | arrays, tracking tow variables in a single pass |
+| `logic-exercises/shapes-inheritance-polymorphism` | abstract class, inheritance, polymorphism       |
+| `hackerrank/if-else`                              | conditionals                                    |
+| `hackerrank/fizzbuzz`                             | loop, conditionals                              |
 
 ## How to run
 Each folder contains one or more .java files, compilable with:
