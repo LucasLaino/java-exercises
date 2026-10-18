@@ -1,9 +1,11 @@
 import java.io.*;
 
 /**
- * HackerRank - java-loops-i
- * Given an integer, N, print it's first 10 multiplies.
- * Each multiple N x i (Where 1 <= i <=10) should be printed on a new line in the form N x i = result
+ * HackerRank - java Loops I
+ * https://www.hackerrank.com/challenges/java-loops-i/problem
+ *
+ * prints the first 10 multiplies of a given integer
+ * Each multiple are printed on a new line in the form N x i = result.
  */
 public class JavaLoops1Solution {
     public static void main(String[] args) throws IOException {

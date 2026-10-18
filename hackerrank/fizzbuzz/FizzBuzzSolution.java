@@ -1,9 +1,10 @@
 /**
  * HackerRank - FizzBuzz
- * Write a short program that prints each number from 1 to 100 on a new line.
- * - For each multiple of 3, print "Fizz" instead of the number.
- * - For each multiple of 5, print "Buzz" instead of the number.
- * - For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
+ * https://www.hackerrank.com/challenges/fizzbuzz/problem
+ *
+ * Prints the numbers from 1 to 100, one per line, replacing multiples of 3
+ * with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
+ * If number is not a multiple of 3 or 5, print the number.
  */
 public class FizzBuzzSolution {
     public static void main(String[] args) {

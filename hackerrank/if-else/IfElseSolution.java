@@ -2,11 +2,10 @@ import java.io.*;
 
 /**
  * HackerRank - If-Else
- * Given an integer n, perform de following conditional actions:
- * - If n is odd, print "weird"
- * - If n is even and in the inclusive range of 2 to 5, print "Not Weird"
- * - If n is even and in the inclusive range of 6 to 20, print "Weird"
- * - If n is even and greater than 20, print "Not Weird"
+ * https://www.hackerrank.com/challenges/java-if-else/problem
+ *
+ * Reads an integer n and prints "Weird" if n is odd, or if n is even between 6 and 20 (inclusive)
+ * Otherwise, prints "Not Weird".
  */
 public class IfElseSolution {
     public static void main(String[] args) throws IOException {
