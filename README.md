@@ -14,6 +14,7 @@ Exercises and study material in Java, part of my preparation for my first opport
 | `logic-exercises/shapes-inheritance-polymorphism` | abstract class, inheritance, polymorphism       |
 | `hackerrank/if-else`                              | conditionals                                    |
 | `hackerrank/fizzbuzz`                             | loop, conditionals                              |
+| `hackerrank/java-loops-I`                         | loop                                            |
 
 ## How to run
 Each folder contains one or more .java files, compilable with:
