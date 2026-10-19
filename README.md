@@ -15,6 +15,7 @@ Exercises and study material in Java, part of my preparation for my first opport
 | `hackerrank/if-else`                              | conditionals                                    |
 | `hackerrank/fizzbuzz`                             | loop, conditionals                              |
 | `hackerrank/java-loops-I`                         | loop                                            |
+| `hackerrank/java-loops-II`                        | nested loops, running accumulation              |
 | `hackerrank/java-output-formatting`               | printf, format specifiers, zero padding         |
 
 ## How to run
