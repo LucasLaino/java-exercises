@@ -1,5 +1,4 @@
 # Java Studies
-
 Java exercises form my path to becoming a backend developer: logic and OPP problems plus HackerRank solutions.
 Every code is documented with Javadoc and written in English.
 
@@ -8,21 +7,30 @@ Every code is documented with Javadoc and written in English.
 ## Structure
 
 - `logic-exercises/` — logic exercises (loops, conditionals, OOP, enums, etc.)
-- `hackerrank/` — HackerRank challenge solutions
+- `hackerrank/` — HackerRank challenge solutions. One folder per solution
+
+---
 
 ## Contents
+
+### Logic exercises
 | Exercise                                          | Concept                                            |
 |---------------------------------------------------|----------------------------------------------------|
 | `logic-exercises/triangle-classification`         | conditionals, triangle inequality                  |
-| `logic-exercises/second-highest-value`            | arrays, tracking tow variables in a single pass    |
+| `logic-exercises/second-highest-value`            | arrays, tracking two variables in a single pass    |
 | `logic-exercises/shapes-inheritance-polymorphism` | abstract class, inheritance, polymorphism          |
-| `hackerrank/if-else`                              | conditionals                                       |
-| `hackerrank/fizzbuzz`                             | loop, conditionals                                 |
-| `hackerrank/java-loops-I`                         | loop                                               |
-| `hackerrank/java-loops-II`                        | nested loops, running accumulation                 |
-| `hackerrank/java-output-formatting`               | printf, format specifiers, zero padding            |
-| `hackerrank/java-datatypes`                       | primitive types, try-catch, InputMismatchException |
-| `hackerrank/end-of-file`                          | reading input until EOF, Scanner.hasNext()         |
+
+### HackerRank
+
+| Challenge                                                                                      | Concept                                            |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [java-if-else](https://www.hackerrank.com/challenges/java-if-else/problem)                     | conditionals                                       |
+| [fizzbuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem)                             | loop,conditionals                                  |
+| [java-loops-1](https://www.hackerrank.com/challenges/java-loops-i/problem)                     | loop                                               |
+| [java-loops-2](https://www.hackerrank.com/challenges/java-loops-ii/problem)                    | nested loops, running accumulationm                |
+| [java-output-formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | printf, format specifiers, zero padding            |
+| [java-datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                 | primitive types, try catch, InputMismatchException |
+| [java-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)             | reading input until EOF, Scanner.hasNext()         |
 
 ---
 
@@ -56,5 +64,3 @@ java EndOfFileSolution.java < input.txt
 ```
 
 On PowerShell: `Get-Content input.txt | Java EndOfFileSolution.java`
-
----
