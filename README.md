@@ -18,6 +18,7 @@ Exercises and study material in Java, part of my preparation for my first opport
 | `hackerrank/java-loops-II`                        | nested loops, running accumulation                 |
 | `hackerrank/java-output-formatting`               | printf, format specifiers, zero padding            |
 | `hackerrank/java-datatypes`                       | primitive types, try-catch, InputMismatchException |
+| `hackerrank/end-of-file`                          | reading input until EOF, Scanner.hasNext()         |
 
 ## How to run
 Each folder contains one or more .java files, compilable with:
