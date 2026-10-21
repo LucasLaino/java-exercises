@@ -1,5 +1,9 @@
 # Java Studies
-Exercises and study material in Java, part of my preparation for my first opportunity as a backend developer.
+
+Java exercises form my path to becoming a backend developer: logic and OPP problems plus HackerRank solutions.
+Every code is documented with Javadoc and written in English.
+
+---
 
 ## Structure
 
@@ -20,10 +24,37 @@ Exercises and study material in Java, part of my preparation for my first opport
 | `hackerrank/java-datatypes`                       | primitive types, try-catch, InputMismatchException |
 | `hackerrank/end-of-file`                          | reading input until EOF, Scanner.hasNext()         |
 
-## How to run
-Each folder contains one or more .java files, compilable with:
+---
 
+## Requirements
+
+- JDK 11 or later (developed with JDK 27). Check your version with ´java -version` on terminal.
+
+---
+
+## How to run
+
+Run the commands from the exercise folder.
+
+**Exercises with several files** (compile everything, then run the class that has `main`):
+
+```bash
+cd ./logic-exercises/shapes-inheritance-polymorphism/
+java Main.java
 ```
-javac FileName.java
-java MainClassName
+
+**Single-file solutions** (compile and run in one step):
+
+```bash
+cd ./hackerrank/end-of-file/
+java ./EndOfFileSolution.java
 ```
+
+**Solutions that read input** Wait for keyboard input. Each of them includes a sample `input.txt` to feed instead:
+```bash
+java EndOfFileSolution.java < input.txt
+```
+
+On PowerShell: `Get-Content input.txt | Java EndOfFileSolution.java`
+
+---
