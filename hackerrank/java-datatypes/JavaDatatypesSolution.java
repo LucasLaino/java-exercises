@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 /**
@@ -9,7 +8,7 @@ import java.util.*;
  * (byte, short, int, long) can store each one. Values that do not fit in a
  * long are detected through the InputMismatchException thrown by nextLong().
  */
-public class JavDatatypesSolution {
+public class JavaDatatypesSolution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
