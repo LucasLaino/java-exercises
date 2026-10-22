@@ -65,3 +65,11 @@ java EndOfFileSolution.java < input.txt
 ```
 
 On PowerShell: `Get-Content input.txt | Java EndOfFileSolution.java`
+
+---
+
+## Conventions
+
+- Names, comments and documentation in English
+- Javadoc on non-trivial methods; HackerRank solutions link to the original challenge (statements are not reproduced)
+- Commits follow Conventional Commits
