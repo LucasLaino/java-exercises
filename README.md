@@ -14,12 +14,12 @@ Every code is documented with Javadoc and written in English.
 ## Contents
 
 ### Logic exercises
-| Exercise                                          | Concept                                            |
-|---------------------------------------------------|----------------------------------------------------|
-| `logic-exercises/triangle-classification`         | conditionals, triangle inequality                  |
-| `logic-exercises/second-highest-value`            | arrays, tracking two variables in a single pass    |
-| `logic-exercises/shapes-inheritance-polymorphism` | abstract class, inheritance, polymorphism          |
-| `logic-exercises/modified-fizzbuzz`               | loops, conditionals, String accumulator            |
+| Exercise                                                                                                                                  | Concept                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| [triangle-classification](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/triangle-classification)                 | conditionals, triangle inequality               |
+| [second-highest-value](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/second-highest-value)                       | arrays, tracking two variables in a single pass |
+| [shapes-inheritance-polymorphism](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/shapes-inheritance-polymorphism) | abstract class, inheritance, polymorphism       |
+| [modified-fizzbuzz](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/modified-fizzbuzz)                             | loops, conditionals, String accumulator         |
 
 ### HackerRank
 
