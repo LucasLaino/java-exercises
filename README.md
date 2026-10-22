@@ -19,6 +19,7 @@ Every code is documented with Javadoc and written in English.
 | `logic-exercises/triangle-classification`         | conditionals, triangle inequality                  |
 | `logic-exercises/second-highest-value`            | arrays, tracking two variables in a single pass    |
 | `logic-exercises/shapes-inheritance-polymorphism` | abstract class, inheritance, polymorphism          |
+| `logic-exercises/modified-fizzbuzz`               | loops, conditionals, String accumulator            |
 
 ### HackerRank
 
@@ -36,7 +37,7 @@ Every code is documented with Javadoc and written in English.
 
 ## Requirements
 
-- JDK 11 or later (developed with JDK 27). Check your version with ´java -version` on terminal.
+- JDK 11 or later (developed with JDK 27). Check your version with `java -version` on terminal.
 
 ---
 
