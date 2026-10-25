@@ -14,25 +14,25 @@ Every code is documented with Javadoc and written in English.
 ## Contents
 
 ### Logic exercises
-| Exercise                                                                                                                                  | Concept                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| [triangle-classification](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/triangle-classification)                 | conditionals, triangle inequality               |
-| [second-highest-value](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/second-highest-value)                       | arrays, tracking two variables in a single pass |
-| [shapes-inheritance-polymorphism](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/shapes-inheritance-polymorphism) | abstract class, inheritance, polymorphism       |
-| [modified-fizzbuzz](https://github.com/LucasLaino/java-exercises/tree/main/logic-exercises/modified-fizzbuzz)                             | loops, conditionals, String accumulator         |
+| Exercise                                                                           | Concept                                         |
+|------------------------------------------------------------------------------------|-------------------------------------------------|
+| [triangle-classification](logic-exercises/triangle-classification)                 | conditionals, triangle inequality               |
+| [second-highest-value](logic-exercises/second-highest-value)                       | arrays, tracking two variables in a single pass |
+| [shapes-inheritance-polymorphism](logic-exercises/shapes-inheritance-polymorphism) | abstract class, inheritance, polymorphism       |
+| [modified-fizzbuzz](logic-exercises/modified-fizzbuzz)                             | loops, conditionals, String accumulator         |
 
 ### HackerRank
 
-| Challenge                                                                                                          | Concept                                            |
-|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [java-if-else](https://www.hackerrank.com/challenges/java-if-else/problem)                                         | conditionals                                       |
-| [fizzbuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem)                                                 | loop,conditionals                                  |
-| [java-loops-1](https://www.hackerrank.com/challenges/java-loops-i/problem)                                         | loop                                               |
-| [java-loops-2](https://www.hackerrank.com/challenges/java-loops-ii/problem)                                        | nested loops, running accumulationm                |
-| [java-output-formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                     | printf, format specifiers, zero padding            |
-| [java-datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                                     | primitive types, try catch, InputMismatchException |
-| [java-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)                                 | reading input until EOF, Scanner.hasNext()         |
-| [java-initializer-block](https://github.com/LucasLaino/java-exercises/tree/main/hackerrank/java-initializer-block) | static initialization block, static fields         |
+| Challenge                                                                  | Concept                                            |
+|----------------------------------------------------------------------------|----------------------------------------------------|
+| [java-if-else](hackerrank/java-if-else)                                    | conditionals                                       |
+| [fizzbuzz](hackerrank/fizzbuzz)                                            | loop,conditionals                                  |
+| [java-loops-1](hackerrank/java-loops-1)                                    | loop                                               |
+| [java-loops-2](hackerrank/java-loops-2)                                    | nested loops, running accumulationm                |
+| [java-output-formatting](hackerrank/java-output-formatting)                | printf, format specifiers, zero padding            |
+| [java-datatypes](hackerrank/java-datatypes)                                | primitive types, try catch, InputMismatchException |
+| [java-end-of-file](hackerrank/java-end-of-file)                            | reading input until EOF, Scanner.hasNext()         |
+| [java-static- initializer-block](hackerrank/java-static-initializer-block) | static initialization block, static fields         |
 
 ---
 
