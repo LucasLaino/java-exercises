@@ -32,7 +32,7 @@ Every code is documented with Javadoc and written in English.
 | [java-output-formatting](hackerrank/java-output-formatting)                | printf, format specifiers, zero padding                 |
 | [java-datatypes](hackerrank/java-datatypes)                                | primitive types, try catch, InputMismatchException      |
 | [java-end-of-file](hackerrank/java-end-of-file)                            | reading input until EOF, Scanner.hasNext()              |
-| [java-static- initializer-block](hackerrank/java-static-initializer-block) | static initialization block, static fields              |
+| [java-static-initializer-block](hackerrank/java-static-initializer-block)  | static initialization block, static fields              |
 | [java-int-to-string](hackerrank/java-int-to-string)                        | type conversion, round-trip check with Integer.parseInt |
 
 ---
