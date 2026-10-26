@@ -23,16 +23,17 @@ Every code is documented with Javadoc and written in English.
 
 ### HackerRank
 
-| Challenge                                                                  | Concept                                            |
-|----------------------------------------------------------------------------|----------------------------------------------------|
-| [java-if-else](hackerrank/java-if-else)                                    | conditionals                                       |
-| [fizzbuzz](hackerrank/fizzbuzz)                                            | loop,conditionals                                  |
-| [java-loops-1](hackerrank/java-loops-1)                                    | loop                                               |
-| [java-loops-2](hackerrank/java-loops-2)                                    | nested loops, running accumulationm                |
-| [java-output-formatting](hackerrank/java-output-formatting)                | printf, format specifiers, zero padding            |
-| [java-datatypes](hackerrank/java-datatypes)                                | primitive types, try catch, InputMismatchException |
-| [java-end-of-file](hackerrank/java-end-of-file)                            | reading input until EOF, Scanner.hasNext()         |
-| [java-static- initializer-block](hackerrank/java-static-initializer-block) | static initialization block, static fields         |
+| Challenge                                                                  | Concept                                                 |
+|----------------------------------------------------------------------------|---------------------------------------------------------|
+| [java-if-else](hackerrank/java-if-else)                                    | conditionals                                            |
+| [fizzbuzz](hackerrank/fizzbuzz)                                            | loop,conditionals                                       |
+| [java-loops-1](hackerrank/java-loops-1)                                    | loop                                                    |
+| [java-loops-2](hackerrank/java-loops-2)                                    | nested loops, running accumulationm                     |
+| [java-output-formatting](hackerrank/java-output-formatting)                | printf, format specifiers, zero padding                 |
+| [java-datatypes](hackerrank/java-datatypes)                                | primitive types, try catch, InputMismatchException      |
+| [java-end-of-file](hackerrank/java-end-of-file)                            | reading input until EOF, Scanner.hasNext()              |
+| [java-static- initializer-block](hackerrank/java-static-initializer-block) | static initialization block, static fields              |
+| [java-int-to-string](hackerrank/java-int-to-string)                        | type conversion, round-trip check with Integer.parseInt |
 
 ---
 
