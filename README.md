@@ -35,6 +35,7 @@ Every code is documented with Javadoc and written in English.
 | [java-static-initializer-block](hackerrank/java-static-initializer-block)  | static initialization block, static fields              |
 | [java-int-to-string](hackerrank/java-int-to-string)                        | type conversion, round-trip check with Integer.parseInt |
 | [java-date-and-time](hackerrank/java-date-and-time)                        | Calendar, zero-based months, getDisplayName             |
+| [java-currency-formatter](hackerrank/java-currency-formatter)              | NumberFormat, Locale, currency formatting               |
 ---
 
 ## Requirements
