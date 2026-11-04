@@ -38,7 +38,7 @@ Every code is documented with Javadoc and written in English.
 | [java-date-and-time](hackerrank/java-date-and-time)                        | Calendar, zero-based months, getDisplayName             |
 | [java-currency-formatter](hackerrank/java-currency-formatter)              | NumberFormat, Locale, currency formatting               |
 | [java-strings-introduction](hackerrank/java-strings-introduction)          | String length, comparteTo, substring                    |
-
+| [simple-array-sum](hackerrank/simple-array-sum)                            | List, for-each, BufferedReader, input validation        |
 ---
 
 ## Requirements
