@@ -1,13 +1,14 @@
 # Java Studies
-Java exercises form my path to becoming a backend developer: logic and OPP problems plus HackerRank solutions.
-Every code is documented with Javadoc and written in English.
+Java exercises along my path to becoming a backend developer: logic and OOP problems, HackerRank solutions and functional
+interfaces. All code is documented with Javadoc and written in English.
 
 ---
 
 ## Structure
 
-- `logic-exercises/` — logic exercises (loops, conditionals, OOP, enums, etc.)
-- `hackerrank/` — HackerRank challenge solutions. One folder per solution
+- `logic-exercises/` — logic exercises (loops, conditionals, OOP, enums, etc.). One folder per exercise.
+- `hackerrank/` — HackerRank challenge solutions. One folder per solution.
+- `functional-interfaces/` — Examples of the main methods of functional interfaces. One folder per interface.
 
 ---
 
@@ -27,7 +28,7 @@ Every code is documented with Javadoc and written in English.
 | Challenge                                                                  | Concept                                                 |
 |----------------------------------------------------------------------------|---------------------------------------------------------|
 | [java-if-else](hackerrank/java-if-else)                                    | conditionals                                            |
-| [fizzbuzz](hackerrank/fizzbuzz)                                            | loop,conditionals                                       |
+| [fizzbuzz](hackerrank/fizzbuzz)                                            | loop, conditionals                                      |
 | [java-loops-1](hackerrank/java-loops-1)                                    | loop                                                    |
 | [java-loops-2](hackerrank/java-loops-2)                                    | nested loops, running accumulationm                     |
 | [java-output-formatting](hackerrank/java-output-formatting)                | printf, format specifiers, zero padding                 |
@@ -39,11 +40,19 @@ Every code is documented with Javadoc and written in English.
 | [java-currency-formatter](hackerrank/java-currency-formatter)              | NumberFormat, Locale, currency formatting               |
 | [java-strings-introduction](hackerrank/java-strings-introduction)          | String length, comparteTo, substring                    |
 | [simple-array-sum](hackerrank/simple-array-sum)                            | List, for-each, BufferedReader, input validation        |
+
+
+### Functional interfaces
+
+| Interface                                                         | Main methods                           |
+|-------------------------------------------------------------------|----------------------------------------|
+| [Predicate](functional-interfaces/predicate-interface)            | test, and, or, negate, Predicate.not   | 
+
 ---
 
 ## Requirements
 
-- JDK 11 or later (developed with JDK 27). Check your version with `java -version` on terminal.
+- JDK 17 or later (developed with JDK 27). Check your version with `java -version` on terminal.
 
 ---
 
