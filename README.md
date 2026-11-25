@@ -58,6 +58,7 @@ functional programming, and it is being constantly updated. All code is document
 | Interface                                                         | Main methods                           |
 |-------------------------------------------------------------------|----------------------------------------|
 | [Predicate](functional-interfaces/predicate-interface)            | test, and, or, negate, Predicate.not   |
+| [Function](functional-interfaces/function-interface)              | apply, andThen, compose, indentity     |
 
 ---
 
