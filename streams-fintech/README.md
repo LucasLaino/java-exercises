@@ -10,7 +10,8 @@ Functional programming exercises on a small fintech domain.
 
 ## Exercises
 
-| #  | File                                                | Concept   | Status  |
-|----|-----------------------------------------------------|-----------|---------|
-| 01 | [Ex01FilterByAmount](week1/Ex01FilterByAmount.java) | Predicate | Done    |
-| 02 | Function                                            | Function  | Pending |
+| #  | File                                                | Concept    | Status  |
+|----|-----------------------------------------------------|------------|---------|
+| 01 | [Ex01FilterByAmount](week1/Ex01FilterByAmount.java) | Predicate  | Done    |
+| 02 | [Ex02StatementLine](week1/Ex02StatementLine.java)   | Function   | Done    |
+| 03 | Comparator                                          | Comparator | Pending |
