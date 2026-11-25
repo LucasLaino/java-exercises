@@ -1,6 +1,7 @@
 # Java Studies
-Java exercises along my path to becoming a backend developer: logic and OOP problems, HackerRank solutions and functional
-interfaces. All code is documented with Javadoc and written in English.
+
+Java exercises along my path to becoming a backend developer. This repository contains contents from logic problems to
+functional programming, and it is being constantly updated. All code is documented, written and committed in English.
 
 ---
 
@@ -8,7 +9,17 @@ interfaces. All code is documented with Javadoc and written in English.
 
 - `logic-exercises/` — logic exercises (loops, conditionals, OOP, enums, etc.). One folder per exercise.
 - `hackerrank/` — HackerRank challenge solutions. One folder per solution.
-- `functional-interfaces/` — Examples of the main methods of functional interfaces. One folder per interface.
+- `functional-interfaces/` — examples of the main methods of functional interfaces. One folder per interface.
+- `streams-fintech/` — functional programming exercises on a fintech transaction model. See the [exercise list](streams-fintech).
+
+---
+
+## Conventions
+
+- All code and documentation are written in English
+- Javadoc on non-trivial methods; HackerRank solutions link to the original challenge (statements are not reproduced)
+- Each folder groups one topic, and larger ones have their own README
+- Commits follow [Conventional Commits](https://www.conventionalcommits.org/)
 
 ---
 
@@ -46,7 +57,7 @@ interfaces. All code is documented with Javadoc and written in English.
 
 | Interface                                                         | Main methods                           |
 |-------------------------------------------------------------------|----------------------------------------|
-| [Predicate](functional-interfaces/predicate-interface)            | test, and, or, negate, Predicate.not   | 
+| [Predicate](functional-interfaces/predicate-interface)            | test, and, or, negate, Predicate.not   |
 
 ---
 
@@ -80,11 +91,3 @@ java EndOfFileSolution.java < input.txt
 ```
 
 On PowerShell: `Get-Content input.txt | Java EndOfFileSolution.java`
-
----
-
-## Conventions
-
-- Names, comments and documentation in English
-- Javadoc on non-trivial methods; HackerRank solutions link to the original challenge (statements are not reproduced)
-- Commits follow Conventional Commits
